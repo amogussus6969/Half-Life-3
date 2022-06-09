@@ -9,4 +9,4 @@ import os
 
 #Characters
 
-gordon_image_path = os.path.join("images", "")
+gordon_image_path = os.path.join("images", "gordon.png")
